@@ -1,0 +1,15 @@
+body{
+    background-color:aqua;
+    font-family:"Roboto", sans-serif;
+}
+h1{
+    color:red;
+    font-size:2em;
+
+}
+p{
+    color:#825959;
+}
+ol{
+    line-height: 45px;
+}
